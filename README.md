@@ -2,4 +2,4 @@
 
 [Link to Presentation](https://www.canva.com/design/DAGXasE1rlE/A5tKNR9OIkA74jmUST5V6A/view?utm_content=DAGXasE1rlE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-An analysis of a Vinho Verde wine dataset, investigating the correlation between physicochemical properties and wine quality. This study leverages machine learning techniques to predict the quality of Vinho Verde wine based on its key physicochemical attributes.
+This analysis explores a Vinho Verde wine dataset, examining how different physicochemical properties, such as acidity and alcohol content, relate to the wine's quality. By using machine learning techniques, we aim to predict the quality of Vinho Verde wine based on these key attributes. The presentation is designed for a non-technical audience.
